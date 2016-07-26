@@ -20,3 +20,5 @@ console.log(replace);
 // Set the content of the sonnet div with the new string
 document.getElementById("sonnet").innerHTML = replace;
 console.log(replace);
+
+// I think I am finished with the assignment but I don't understand what I did
